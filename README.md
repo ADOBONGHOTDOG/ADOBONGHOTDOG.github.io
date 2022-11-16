@@ -1,4 +1,4 @@
-# WELCOME TO *ADOBONGHOTDOG.github.io*
+# Welcome to *ADOBONGHOTDOG.github.io*
 ---
 ## **SPEED>TATE**
 
