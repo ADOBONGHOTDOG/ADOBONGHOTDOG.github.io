@@ -1,4 +1,4 @@
-# Welcome to *ADOBONGHOTDOG.github.io*
+# *TATE IS MID!*
 ---
 ## **SPEED>TATE**
 
