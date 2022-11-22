@@ -7,8 +7,8 @@
 - *Bruno Mars*
 - *Si C*
 
-![37244180087f4d48fec876da33163e61](https://user-images.githubusercontent.com/118234187/202935304-1c238b4a-cc33-4af3-9c41-072f2bc4aefd.jpg)
+[![Bruno Mars - When I Was Your Man (Official Music Video)](https://i.ytimg.com/vi/ekzHIouo8Q4/maxresdefault.jpg)](https://www.youtube.com/watch?v=ekzHIouo8Q4)
 
-[Youtube](https://img.youtube.com/vi/YOUTUBE-ID/0.jpg)](https://www.youtube.com/watch?v=ekzHIouo8Q4)
+
 
 ## BRUNO MARS IS THE GOAT!! NO 🧢
