@@ -13,7 +13,7 @@
 ### "When I Was Your Man - Bruno Mars"
 
 
-[Youtube](https://www.youtube.com/watch?v=ekzHIouo8Q4)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ekzHIouo8Q4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 ## BRUNO MARS IS THE GOAT!! NO 🧢
