@@ -21,6 +21,10 @@
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/LjhCEhWiKXk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+### "Lucid Dreams - Juice WRLD
+
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mzB1VGEGcSU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 ### *MY SPOTIFY PLAYLIST*
