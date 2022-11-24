@@ -5,7 +5,6 @@
 - *Basketball*
 - *Valorant*
 - *Bruno Mars*
-- *Si C*
 - *Music*
 
 
@@ -31,9 +30,6 @@
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/6vhcDb6hPyRRTcU9BORJJB?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-
-### ICE CREAM DATE?🍦
-![d-small-people-yes-no-person-standing-words-image-white-background-56934783](https://user-images.githubusercontent.com/118234187/203452880-3fa0e9cc-3560-42f4-9fcd-fec01f5d81b7.jpg)
 
 
 ### HA? HAYLABYU 😘😁
